@@ -53,7 +53,7 @@
             "description": "2D polar blast wave run. Unzips to 772KB",
             "filename": "amrvac_blastwave_polar_2D",
             "size": "704KB",
-            "url": "http://yt-project.org/data/amrvac_bw2d.tar.gz"
+            "url": "http://yt-project.org/data/amrvac_bw_polar2d.tar.gz"
         },
         {
             "code": "MPI-AMRVAC",
